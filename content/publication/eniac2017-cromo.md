@@ -6,7 +6,7 @@ image = "cromo.png"
 image_preview = "cromo.png"
 math = false
 publication = "ENIAC"
-title = "Uma abordagem Fuzzy-Adaptativa para Segmentac ̧ ̃ao deImagens de Cromossomos"
+title = "Uma abordagem Fuzzy-Adaptativa para Segmentacao de Imagens de Cromossomos"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/eniac2017-cromo.pdf"
@@ -14,5 +14,3 @@ url_project = ""
 url_slides = ""
 url_video = ""
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
