@@ -15,6 +15,6 @@ weight = 60
 
 +++
 
-I teach the following courses in Universidade Federal Rural de Pernambuco <a href = "https://www.ufrpe.br" target="_blank"> (UFRPE) Computer Science graduate education program:
+I teach the following courses in <a href = "https://www.ufrpe.br" target="_blank"> Universidade Federal Rural de Pernambuco  (UFRPE)</a> Computer Science graduate education program:
 
 - Discrete Mathematics
